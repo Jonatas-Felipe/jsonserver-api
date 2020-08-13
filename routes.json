@@ -1,0 +1,4 @@
+{
+  "/rastreio/:nf": "/rastreio?nf=:nf",
+  "/rastreio/:nf/:document": "/rastreio?nf=:nf&cpf_cnpj=:document"
+}
